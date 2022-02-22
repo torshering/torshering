@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=2*2+27;console.log(e),function(){let e=document.querySelectorAll(".viewtext p");for(let t of e)t.addEventListener("click",(function(){t.parentElement.parentElement.classList.toggle("opened")}))}()})();

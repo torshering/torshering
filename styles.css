@@ -1,0 +1,30 @@
+img {
+ width: 25vw;
+ float: left;
+ margin: 10px;
+}
+.newsblock{
+    border: 1px solid;
+    height: 25vh;
+    overflow: hidden;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+h3 {
+    
+    width: 70%;
+}
+.viewtext{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.viewtext p{
+    font-weight: 700;
+    background-color: rgb(197, 145, 145);
+}
+
+.opened{
+    height: auto;
+    overflow: auto;
+}
